@@ -23,7 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=orhanucr&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="orhanucr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orhanucr&show_icons=true&theme=tokyonight&locale=en" alt="orhanucr" /></p>
+<p>&nbsp;<img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orhanucr&show_icons=true&theme=radical)&locale=en" alt="orhanucr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orhanucr&theme=dark" alt="orhanucr" /></p>
 
