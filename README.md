@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orhan</h1>
 <h3 align="center">I am a final year Computer Engineering student. I am working on application development for Android.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
 
