@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Linux,Virtualization,ESXi,Jenkins,Docker,Kubernetes,Ansible**
+- 🌱 I’m currently learning **Linux, Virtualization, ESXi, Jenkins, Docker, Kubernetes, Ansible**
 
 - 👨‍💻 All of my projects are available at [https://github.com/orhanucr?tab=repositories](https://github.com/orhanucr?tab=repositories)
 
